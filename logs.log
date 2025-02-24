@@ -1,0 +1,15 @@
+2025-02-10T14:11:58.241Z [right now] info : 
+2025-02-10T14:12:05.058Z [right now] info : testing logger
+2025-02-10T14:12:06.470Z [right now] info : testing logger
+2025-02-10T14:12:41.871Z [right now] error : testing logger
+2025-02-10T14:12:52.107Z [right now] error : testing logger
+2025-02-10T14:16:15.361Z [right now] error : user is not defined
+2025-02-11T05:11:25.762Z [right now] error : connect ETIMEDOUT 1.179.116.1:587
+2025-02-11T05:12:15.842Z [right now] error : connect ETIMEDOUT 1.179.116.1:587
+2025-02-11T05:13:27.961Z [right now] error : connect ETIMEDOUT 1.179.116.1:587
+2025-02-11T05:14:53.007Z [right now] error : connect ETIMEDOUT 1.179.116.1:587
+2025-02-12T03:52:51.075Z [right now] error : connect ETIMEDOUT 1.179.116.1:587
+2025-02-12T03:54:36.190Z [right now] error : connect ETIMEDOUT 1.179.116.1:587
+2025-02-12T18:46:00.662Z [right now] info : job completed
+2025-02-12T19:10:01.681Z [right now] info : job completed
+2025-02-12T19:12:09.243Z [right now] info : job completed
